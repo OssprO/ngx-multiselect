@@ -1,0 +1,17 @@
+
+
+.btn > .dropdown-toggle {
+  white-space: nowrap;
+  overflow-x: hidden;
+  text-overflow: ellipsis;
+}
+
+.dropdown-menu.dropdown-menu-form {
+  width: 100%;
+  overflow-x: auto
+}
+
+.item-unselected {
+  overflow-x: hidden;
+  text-overflow: ellipsis;
+}
